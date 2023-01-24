@@ -1,0 +1,53 @@
+Tema -> analise preditiva
+
+Questão problema: Utilização de modelos preditivos para chuvas utilizando Machine Learning
+
+qual o impacto da análise preditiva na area de refino...
+
+evitar coisas que dão sentido de valor na questão problema
+
+Do tipo quais as vantagens de ....
+
+não se pode tomar parte ou ser tendencioso. E qual impacto esta sendo neutro de cara
+
+
+e a avaliação já será algo dentro do TCC
+
+
+dado o tema e a questão problema será feito uma pesquisa bibliográfica 
+
+Para ver o que exite sobre o assunto
+
+nesta pesquisa podemos usar: Scielo, scopus, Google academico
+
+registrar a historia do que foi feito
+
+
+montar uma linha de tempo
+
+dado os artigos baixados eu vejo quais metodologias foram usadas
+
+Pesquisa baseada em estudo de casos
+
+Por acessibilidade (que exclui a analise estatisticamente precisa)
+
+Fontes dos dados: 
+
+Primários ou secundários
+
+Primário é quando o dado não foi tratado(analisado)
+
+secundario foi feito juizo de valor e analisado (não é o ideal)
+
+apenas na conclusão eu posso dizer algo opinativo
+
+1:37 do aula são os critérios
+
+
+
+
+
+
+
+
+
